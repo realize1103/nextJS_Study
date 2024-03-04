@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import Link from "next/link";
 import AboutUs from "../about-us/page";
 import { usePathname } from "next/navigation";
